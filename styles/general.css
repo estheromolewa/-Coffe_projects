@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+
+.wrapper_div{
+    background-color: #FFBB5C; 
+    padding: 90px 10px;  
+    box-sizing: border-box;
+}
+
+#main_div{
+    background-color: #fff;
+    width: 95%;
+    margin: auto;
+    margin-bottom: 0;
+}
